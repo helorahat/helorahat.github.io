@@ -15,58 +15,79 @@
 
 ## What I Build
 
-I automate the hard parts of security research — recon, vulnerability discovery, analysis, reporting — using AI as the engine.
-
-Current focus: **GrokHunt** — an AI-powered bug bounty tool built on xAI's Grok API with real-time X/Twitter intelligence, autonomous scanning pipelines, and a Solana-based token utility layer.
+I automate the hard parts of security research — recon, vulnerability discovery, analysis, reporting — using AI as the engine. Every project is built because it solves a real problem. Every day I [...]
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### 🎯 GrokHunt
-> AI-powered bug bounty hunting. Grok doesn't just scan — it sees what's being said about your target on X right now.
+### 🎯 **GrokHunt** — AI-Powered Bug Bounty Hunting
+> Grok doesn't just scan — it understands your target. Real-time X/Twitter intelligence, autonomous vulnerability discovery, exploit chaining, and detailed technical reports.
 
-- **Grok Vision** — live X/Twitter intel on your target in real-time
-- **Full recon pipeline** — Subfinder → httpx → Katana → Nuclei → Grok analysis
-- **Bug chaining engine** — maps findings into exploit chains automatically
-- **Autopilot mode** — end-to-end autonomous hunting
-- **$GROKHUNT** — Solana token, holders get shared API pool access
+**Key Features:**
+- **Grok Vision** — Live X/Twitter intel on targets in real-time (the competitive edge)
+- **Full Recon Pipeline** — ASN discovery → subdomain enum → alive filtering → URL crawling → JS analysis → directory fuzzing → nuclei scanning
+- **AI-Powered Analysis** — Grok validates findings, eliminates false positives, detects exploit chains
+- **7-Question Triage Gate** — Ruthless filtering for real exploitable issues
+- **Automated Reporting** — HackerOne, Bugcrowd, Intigriti-ready reports with remediation steps
+- **Autonomous Hunting** — End-to-end pipeline in ~60 seconds
 
-`Node.js` `Next.js` `xAI Grok API` `Nuclei` `Pinecone` `Solana` `Docker`
+**Tech:**
+`Python` `xAI Grok API` `Nuclei` `Subfinder` `httpx` `Katana` `Docker`
 
-> 🔒 Phase 1 dropping soon — follow for updates
+[🔗 View Repository](https://github.com/helorahat/grokhunt) | [📖 Setup Guide](https://github.com/helorahat/grokhunt/blob/main/SETUP.md)
 
 ---
 
-## Stack
+## Stack & Expertise
 
 ```
-Languages   →  JavaScript / Node.js, Python, Bash
-AI          →  xAI Grok API, Claude
-Security    →  Nuclei, Subfinder, httpx, Katana
-Infra       →  Docker, Redis, Supabase, Vercel, Railway
-Blockchain  →  Solana
+🔐 Security    →  Nuclei, Subfinder, httpx, Katana, ffuf
+🤖 AI/ML       →  xAI Grok API, Claude, Pinecone vectors
+💻 Languages   →  Python, JavaScript/Node.js, Bash, Go
+📦 Infra       →  Docker, GitHub Actions, Vercel, Railway
+⛓️  Blockchain  →  Solana
 ```
 
 ---
 
-## Writing
+## Philosophy
 
-I write about bug bounty methodology, AI for security, CTF walkthroughs, and tool development.
-More coming at [helorahat.github.io](https://helorahat.github.io)
+I build at the intersection of **AI** and **security** because:
+
+- ✅ Vulnerability hunting is repetitive — let AI handle it
+- ✅ Real-time intelligence matters — X has the latest exploits and CVEs
+- ✅ False positives waste time — I filter ruthlessly
+- ✅ Shipping > perfect — deployed tools create value
+- ✅ Open source accelerates everything — transparency builds trust
 
 ---
 
-## More Tools Coming
+## Currently Building
 
-Working on multiple tools beyond GrokHunt. Watch this space.
+- **GrokHunt** v1 — Full autonomous hunting pipeline
+- **API & Cloud** — Hosted scanning service
+- **Token Utility** — Solana-based access layer (coming soon)
+- More tools beyond GrokHunt — watch this space
+
+---
+
+## Writing & Resources
+
+- 📝 Blog: [helorahat.github.io](https://helorahat.github.io)
+- 🐦 X (Twitter): [@RAHAT_Abu_Al](https://x.com/RAHAT_Abu_Al)
+- 💡 Focus: AI for security, bug bounty methodology, tool development
 
 ---
 
 <div align="center">
 
-*If you're building at the intersection of AI and security — let's talk.*
+## Let's Build Together
+
+If you're interested in AI-powered security tools, autonomous hunting, or building at the intersection of AI and infosec — I'm always interested in collaborating.
 
 [hello.rahat.me@gmail.com](mailto:hello.rahat.me@gmail.com)
+
+**Latest Commit:** GrokHunt setup complete — automated hunting pipeline ready for testing
 
 </div>

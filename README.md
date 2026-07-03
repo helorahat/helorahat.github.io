@@ -5,9 +5,9 @@
 
 *Building tools that hunt vulnerabilities so humans don't have to.*
 
-[![X](https://img.shields.io/badge/X-%40RAHAT__Abu__Al-000000?style=flat&logo=x&logoColor=white)](https://x.com/RAHAT_Abu_Al)
+[![X](https://img.shields.io/badge/X-%40rahats__x-000000?style=flat&logo=x&logoColor=white)](https://x.com/rahats_x)
 [![GitHub](https://img.shields.io/badge/GitHub-helorahat-181717?style=flat&logo=github&logoColor=white)](https://github.com/helorahat)
-[![Email](https://img.shields.io/badge/Email-hello.rahat.me%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello.rahat.me@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abualrahats%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abualrahats@gmail.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## What I Build
 
-I automate the hard parts of security research — recon, vulnerability discovery, analysis, reporting — using AI as the engine. Every project is built because it solves a real problem. Every day I [...]
+I automate the hard parts of security research — recon, vulnerability discovery, analysis, reporting — using AI as the engine. Every project is built because it solves a real problem. Every day I work on tools that give security researchers an unfair advantage.
 
 ---
 
@@ -75,7 +75,7 @@ I build at the intersection of **AI** and **security** because:
 ## Writing & Resources
 
 - 📝 Blog: [helorahat.github.io](https://helorahat.github.io)
-- 🐦 X (Twitter): [@RAHAT](https://x.com/rahats_x)
+- 🐦 X (Twitter): [@rahats_x](https://x.com/rahats_x)
 - 💡 Focus: AI for security, bug bounty methodology, tool development
 
 ---
@@ -86,7 +86,7 @@ I build at the intersection of **AI** and **security** because:
 
 If you're interested in AI-powered security tools, autonomous hunting, or building at the intersection of AI and infosec — I'm always interested in collaborating.
 
-[hello.rahat.me@gmail.com](mailto:hello.rahat.me@gmail.com)
+[abualrahats@gmail.com](mailto:abualrahats@gmail.com)
 
 **Latest Commit:** GrokHunt setup complete — automated hunting pipeline ready for testing
 

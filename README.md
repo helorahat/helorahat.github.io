@@ -75,7 +75,7 @@ I build at the intersection of **AI** and **security** because:
 ## Writing & Resources
 
 - 📝 Blog: [helorahat.github.io](https://helorahat.github.io)
-- 🐦 X (Twitter): [@RAHAT_Abu_Al](https://x.com/RAHAT_Abu_Al)
+- 🐦 X (Twitter): [@RAHAT](https://x.com/rahats_x)
 - 💡 Focus: AI for security, bug bounty methodology, tool development
 
 ---

@@ -65,7 +65,7 @@ I build at the intersection of **AI** and **security** because:
 
 ## Currently Building
 
-- **GrokHunt** v1 — Full autonomous hunting pipeline
+- **Building** v1 — Full autonomous hunting pipeline
 - **API & Cloud** — Hosted scanning service
 - **Token Utility** — Solana-based access layer (coming soon)
 - More tools beyond GrokHunt — watch this space
@@ -74,7 +74,7 @@ I build at the intersection of **AI** and **security** because:
 
 ## Writing & Resources
 
-- 📝 Blog: [helorahat.github.io](https://helorahat.github.io)
+- 📝 Blog: [abualrahats@gmail.com](https://helorahat.github.io)
 - 🐦 X (Twitter): [@rahats_x](https://x.com/rahats_x)
 - 💡 Focus: AI for security, bug bounty methodology, tool development
 
@@ -88,6 +88,6 @@ If you're interested in AI-powered security tools, autonomous hunting, or buildi
 
 [abualrahats@gmail.com](mailto:abualrahats@gmail.com)
 
-**Latest Commit:** GrokHunt setup complete — automated hunting pipeline ready for testing
+**Latest Commit:** Building setup complete — automated hunting pipeline ready for testing
 
 </div>
